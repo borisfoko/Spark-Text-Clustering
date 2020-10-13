@@ -23,6 +23,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9c4dbe9-9908-4183-ad5c-c27a460178a2" name="Default Changelist" comment="Path Bug fix">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/globalTopicTotals/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/globalTopicTotals/.part-00000-ac26223d-0c38-4d68-9671-a36d50585cac-c000.snappy.parquet.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/globalTopicTotals/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/globalTopicTotals/part-00000-ac26223d-0c38-4d68-9671-a36d50585cac-c000.snappy.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/tokenCounts/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/tokenCounts/.part-00000-5c75b239-3a1a-4481-948c-24c933a635ba-c000.snappy.parquet.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/tokenCounts/.part-00001-5c75b239-3a1a-4481-948c-24c933a635ba-c000.snappy.parquet.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/tokenCounts/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/tokenCounts/part-00000-5c75b239-3a1a-4481-948c-24c933a635ba-c000.snappy.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/tokenCounts/part-00001-5c75b239-3a1a-4481-948c-24c933a635ba-c000.snappy.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/topicCounts/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/topicCounts/.part-00000-b9cb8eb2-36ba-4e7d-a4f9-4b9b57164196-c000.snappy.parquet.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/topicCounts/.part-00001-b9cb8eb2-36ba-4e7d-a4f9-4b9b57164196-c000.snappy.parquet.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/topicCounts/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/topicCounts/part-00000-b9cb8eb2-36ba-4e7d-a4f9-4b9b57164196-c000.snappy.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/data/topicCounts/part-00001-b9cb8eb2-36ba-4e7d-a4f9-4b9b57164196-c000.snappy.parquet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/metadata/._SUCCESS.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/metadata/.part-00000.crc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/metadata/_SUCCESS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/LdaModel_EN_1602586875372/metadata/part-00000" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/models/vocabularies/LdaModel_EN_1602586875372" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/TextClustering.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/TextClustering.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,11 +108,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/resources/books" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.25862068" />
     <property name="scala_project_settings_configurable.last_selected_tab_index" value="7" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -103,7 +127,7 @@
       <recent name="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering\src\main\resources\TestOutput" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LDALoader">
+  <component name="RunManager" selected="Application.LDATraining">
     <configuration name="LDALoader" type="Application" factoryName="Application">
       <envs>
         <env name="HADOOP_HOME" value="C:\WinUtils" />
@@ -265,6 +289,7 @@
       <workItem from="1595185493150" duration="5304000" />
       <workItem from="1602582783203" duration="134000" />
       <workItem from="1602583108485" duration="1007000" />
+      <workItem from="1602586166052" duration="1055000" />
     </task>
     <task id="LOCAL-00001" summary="Project Structure update">
       <created>1587906790537</created>
@@ -424,14 +449,50 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update LDALoader, add BooksPerTopic report" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602586643081">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602586643081" />
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602582860251">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1602582860251" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1602584114097">
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom" timestamp="1602586648272">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602584114097" />
+    <state width="1493" height="303" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602586648272" />
+    <state width="1493" height="303" key="GridCell.Tab.0.center" timestamp="1602586648272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602586648272" />
+    <state width="1493" height="303" key="GridCell.Tab.0.left" timestamp="1602586648272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602586648272" />
+    <state width="1493" height="303" key="GridCell.Tab.0.right" timestamp="1602586648272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602586648272" />
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom" timestamp="1602586648238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602586648238" />
+    <state width="1493" height="303" key="GridCell.Tab.1.center" timestamp="1602586648237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602586648237" />
+    <state width="1493" height="303" key="GridCell.Tab.1.left" timestamp="1602586648237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602586648237" />
+    <state width="1493" height="303" key="GridCell.Tab.1.right" timestamp="1602586648237">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="303" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602586648237" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1602586247538">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602586247538" />
   </component>
   <component name="XDebuggerManager">
     <pin-to-top-manager>
