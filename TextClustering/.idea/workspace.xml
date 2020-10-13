@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9c4dbe9-9908-4183-ad5c-c27a460178a2" name="Default Changelist" comment="Path Bug fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b4zrzudd0qzuRVy3BypNTUCYAl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/resources/books" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.25862068" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="7" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering\src\main\resources\books\English" />
+      <recent name="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering\src\main\resources\books\German" />
+      <recent name="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering\src\main\resources\books\English\Part_2" />
+      <recent name="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering\src\main\resources\books\English\Part_3" />
+      <recent name="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering\src\main\resources\TestOutput" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LDALoader">
+    <configuration name="LDALoader" type="Application" factoryName="Application">
+      <envs>
+        <env name="HADOOP_HOME" value="C:\WinUtils" />
+      </envs>
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LDALoader" />
+      <module name="TextClustering" />
+      <option name="PROGRAM_PARAMETERS" value="-usejavacp" />
+      <option name="VM_PARAMETERS" value="-Djline.terminal=NONE -Xms10240m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LDATraining" type="Application" factoryName="Application" singleton="false">
+      <envs>
+        <env name="HADOOP_HOME" value="C:\WinUtils" />
+      </envs>
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LDATraining" />
+      <module name="TextClustering" />
+      <option name="PROGRAM_PARAMETERS" value="-usejavacp" />
+      <shortenClasspath name="ARGS_FILE" />
+      <option name="VM_PARAMETERS" value="-Djline.terminal=NONE -Xms10240m" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE -Xms12288m" />
+      <option name="myConsoleArgs" value="-usejavacp" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LDATests in 'scala'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="TextClustering" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="All in package" />
+      <option name="classBuf">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="shortenClasspath" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="project" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaTests in 'TextClustering'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="TextClustering" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="All in package" />
+      <option name="classBuf">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="shortenClasspath" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="project" />
+      <option name="useSbt" value="true" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\boris\IdeaProjects\BelegaufgabeSpark\TextClustering" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="Class" />
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="shortenClasspath" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testClassPath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BSP.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LDALoader" />
+      <item itemvalue="Application.LDATraining" />
+      <item itemvalue="ScalaTest.LDATests in 'scala'" />
+      <item itemvalue="ScalaTest.ScalaTests in 'TextClustering'" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9c4dbe9-9908-4183-ad5c-c27a460178a2" name="Default Changelist" comment="" />
+      <created>1587906356642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587906356642</updated>
+      <workItem from="1587906360173" duration="3798000" />
+      <workItem from="1587910224578" duration="29086000" />
+      <workItem from="1588074732907" duration="4178000" />
+      <workItem from="1588083037269" duration="9411000" />
+      <workItem from="1588670596410" duration="15353000" />
+      <workItem from="1589876962850" duration="49793000" />
+      <workItem from="1590243016594" duration="264000" />
+      <workItem from="1590481465696" duration="4753000" />
+      <workItem from="1590488309299" duration="1175000" />
+      <workItem from="1590491103107" duration="17340000" />
+      <workItem from="1590515024673" duration="18464000" />
+      <workItem from="1590655503286" duration="371000" />
+      <workItem from="1590924450360" duration="2317000" />
+      <workItem from="1590927161516" duration="13197000" />
+      <workItem from="1590971694611" duration="815000" />
+      <workItem from="1590972533764" duration="537000" />
+      <workItem from="1590973094831" duration="3313000" />
+      <workItem from="1590976707313" duration="280000" />
+      <workItem from="1591010044561" duration="257000" />
+      <workItem from="1591010322577" duration="15015000" />
+      <workItem from="1591026202903" duration="7503000" />
+      <workItem from="1591033853952" duration="24679000" />
+      <workItem from="1591132347497" duration="754000" />
+      <workItem from="1591210615576" duration="322000" />
+      <workItem from="1591210964585" duration="2203000" />
+      <workItem from="1591361540123" duration="1976000" />
+      <workItem from="1591629359065" duration="1525000" />
+      <workItem from="1591637306723" duration="616000" />
+      <workItem from="1591638325307" duration="56000" />
+      <workItem from="1591693965927" duration="3894000" />
+      <workItem from="1591702697206" duration="10189000" />
+      <workItem from="1593441496139" duration="1343000" />
+      <workItem from="1593704878417" duration="6996000" />
+      <workItem from="1593720628132" duration="617000" />
+      <workItem from="1595185493150" duration="5304000" />
+      <workItem from="1602582783203" duration="134000" />
+      <workItem from="1602583108485" duration="1007000" />
+    </task>
+    <task id="LOCAL-00001" summary="Project Structure update">
+      <created>1587906790537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587906790537</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project Structure update">
+      <created>1587906811786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587906811786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="LDAClustering and TF-IDF Vector">
+      <created>1587945128255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587945128255</updated>
+    </task>
+    <task id="LOCAL-00004" summary="LDAClustering First Test &amp; Results">
+      <created>1588092993898</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588092993898</updated>
+    </task>
+    <task id="LOCAL-00005" summary="LDAClustering Trained Model and Test App">
+      <created>1589961757329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589961757329</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Project Config and LDAClustering Test Results">
+      <created>1589961812078</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589961812078</updated>
+    </task>
+    <task id="LOCAL-00007" summary="LDAClustering Test result format update">
+      <created>1589962413459</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589962413459</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Test set English Update">
+      <created>1589962579202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589962579202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update LDATraining SparkConfig">
+      <created>1589962823537</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589962823537</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test Class Update">
+      <created>1590491165525</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590491165525</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Bug fix">
+      <created>1590509905054</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590509905054</updated>
+    </task>
+    <task id="LOCAL-00012" summary="OutOfMemory Bug fix and TF-IDF Matrix">
+      <created>1591132726882</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1591132726882</updated>
+    </task>
+    <task id="LOCAL-00013" summary="OutOfMemory Bug fix and TF-IDF Matrix">
+      <created>1591132741021</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591132741021</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Path Bug fix">
+      <created>1591211955681</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1591211955681</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Update LDALoader, add BooksPerTopic report">
+      <created>1591723591216</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1591723591216</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Update LDALoader, add BooksPerTopic report">
+      <created>1591723620067</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1591723620067</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Project Structure update" />
+    <MESSAGE value="LDAClustering and TF-IDF Vector" />
+    <MESSAGE value="LDAClustering First Test &amp; Results" />
+    <MESSAGE value="LDAClustering Trained Model and Test App" />
+    <MESSAGE value="Project Config and LDAClustering Test Results" />
+    <MESSAGE value="LDAClustering Test result format update" />
+    <MESSAGE value="Test set English Update" />
+    <MESSAGE value="Update LDATraining SparkConfig" />
+    <MESSAGE value="Test Class Update" />
+    <MESSAGE value="Bug fix" />
+    <MESSAGE value="OutOfMemory Bug fix and TF-IDF Matrix" />
+    <MESSAGE value="Path Bug fix" />
+    <MESSAGE value="Update LDALoader, add BooksPerTopic report" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update LDALoader, add BooksPerTopic report" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1602582860251">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824@0.0.1536.824" timestamp="1602582860251" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1602584114097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602584114097" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="scala.Tuple2" fieldName="_1" />
+        <PinnedItemInfo typeName="org.apache.spark.ml.param.ParamMap" fieldName="map" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="TextClustering" type="b2602c69:ProjectViewProjectNode" />
+        <item name="TextClustering" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
